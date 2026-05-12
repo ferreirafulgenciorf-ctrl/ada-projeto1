@@ -44,6 +44,9 @@ Este curso apresenta as principais ferramentas usadas no trabalho diário com da
 └── projeto_final/
 ```
 
+## Testes
+Testando as funcionalidades. 
+
 ## Autor
 
 Rafael Ferreira Fulgencio — [github.com/usuario (https://github.com/ferreirafulgenciorf-ctrl/)
